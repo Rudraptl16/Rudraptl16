@@ -11,4 +11,4 @@
 
 # 💻 Portfolio
 
-[![Portfolio](https://shields.io)](https://patelrudra.in)
+[![Rudra Patel](https://patelrudra.in)
