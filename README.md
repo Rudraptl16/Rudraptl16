@@ -11,4 +11,4 @@
 
 # 💻 Portfolio
 
-[![Rudra Patel](https://patelrudra.in)
+[![Rudra Patel](https://patelrudra.in)]
