@@ -1,4 +1,4 @@
-
+ 
 # 👤 About Me
    Engineering high-performance iOS mobile applications and responsive MERN stack web applications (React.js, Next.js, Node.js, MongoDB).<br><br> Freelance or full-time remote roles focused on enterprise web applications, cross-platform mobile ecosystems, and resilient backend microservices.<br><br> Native iOS development (Swift, SwiftUI, UIKit) at the Apple Authorised Training Center [AATCe], alongside deep dives into software architecture, system design, and Java Data Structures & Algorithms for my Computer Science Engineering degree.<br><br> Full-stack MERN architecture, crafting pixel-perfect UI with Tailwind CSS and Framer Motion micro-interactions, clean MVVM/MVC design patterns, and digital performance optimization.<br><br>
 
