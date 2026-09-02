@@ -15,4 +15,4 @@
 **Rudra Patel**
 - **GitHub**: [@Rudraptl16](https://github.com/Rudraptl16)
 - **Email**: [patelrudra99098@gmail.com](mailto:patelrudra99098@gmail.com)
--**Portfolio**: [Rudra Patel](https://patelrudra.in/)
+- **Portfolio**: [Rudra Patel](https://patelrudra.in/)
